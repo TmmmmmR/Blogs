@@ -14,4 +14,6 @@ Microsoft Word – UNC Path Injection with Image Linking : https://blog.netspi.c
 
 https://www.sunnyhoi.com/hacking-using-vba-macro-based-malware-phishing-kali-linux/
 
+An interesting route to domain admin- iSCSI : https://www.pentestpartners.com/security-blog/an-interesting-route-to-domain-admin-iscsi/
+
 
